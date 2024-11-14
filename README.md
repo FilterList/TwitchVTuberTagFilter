@@ -6,8 +6,8 @@ Filters FleshTubers that misuse the VTuber tag on Twitch for uBlockOrigin
 1) From ```uBlockOrigin``` settings go to ```Filter lists```  
 2)  Scroll down to ```Import``` and copy the filter Raw URL  
 ```
-https://raw.githubusercontent.com/FilterList/TwitchVTuberTagFilter-/refs/heads/main/TwitchVTuberTagFilter
-https://raw.githubusercontent.com/FilterList/TwitchVTuberTagFilter-/refs/heads/main/TwitchViewBottingFilter
+https://raw.githubusercontent.com/FilterList/TwitchVTuberTagFilter/refs/heads/main/TwitchVTuberTagFilter
+https://raw.githubusercontent.com/FilterList/TwitchVTuberTagFilter/refs/heads/main/TwitchViewBottingFilter
 ```
 4) Hit ```Apply Changes``` button
 
